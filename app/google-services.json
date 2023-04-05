@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "59453597268",
+    "project_id": "mcocqa",
+    "storage_bucket": "mcocqa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59453597268:android:b5b71009f9d7e015c36fc1",
+        "android_client_info": {
+          "package_name": "com.example.mcoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59453597268-5d6loce42aa924sl3e0a01n5mfd2m9re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLOaM1sD61Jv2LKbWxhHrBY4qACpM-wMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59453597268-5d6loce42aa924sl3e0a01n5mfd2m9re.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
